@@ -4,8 +4,8 @@ import unicodedata2
 
 uni_from = "U+AC00"
 
-#uni_to = "U+AC59" # normal Imma.ttf
-uni_to = "U+AC5A" # normal ? little wider?
+uni_to = "U+AC59" # normal Imma.ttf
+#uni_to = "U+AC5A" # normal ? little wider?
 #uni_to = "U+AC5B" # normal ? little wider?
 #uni_to = "U+AC5C" # little wider
 #uni_to = "U+AC5F" # little wider
